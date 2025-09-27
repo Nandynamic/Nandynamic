@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="150" src="[[https://i.imgflip.com/65efzo.gif](https://64.media.tumblr.com/ca849b9ea746204a0b41c261421f50e0/ff9da8f4d53eae71-56/s640x960/337a03fea9abd98670059a0d82ae12dc18fe3977.gifv)](https://media1.tenor.com/m/e16JMu7onTgAAAAd/sukuna-domain-expansion.gif)"  />
+<img align="right" height="150" src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8"  />
 
 ###
 
