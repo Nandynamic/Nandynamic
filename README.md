@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="150" src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8"  />
+<img align="right" height="150" src="https://tenor.com/view/sukuna-uji-itadiri-justus-kaisan-gif-6560111943735824969"  />
 
 ###
 
@@ -62,11 +62,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Nandynamic/Nandynamic/output/snake.svg" alt="Snake animation" />
 
 ###
