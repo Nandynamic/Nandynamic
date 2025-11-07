@@ -67,3 +67,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
+<img width="1213" height="411" alt="Screenshot 2025-11-07 at 22 48 24" src="https://github.com/user-attachments/assets/2d252562-4bcb-461d-83f5-9267a7cd014b" />
+
+
