@@ -1,5 +1,7 @@
 <div align="center">
-[![An image of @nandynamic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nandynamic)](https://holopin.io/@nandynamic)
+  
+ [![An image of @nandynamic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nandynamic)](https://holopin.io/@nandynamic)
+ 
 </div>
 
 <img align="right" height="150" src="219537.gif"  />
