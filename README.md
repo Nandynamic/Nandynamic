@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1213" height="411" alt="Screenshot 2025-11-07 at 22 48 24" src="https://github.com/user-attachments/assets/2d252562-4bcb-461d-83f5-9267a7cd014b" />
+[![An image of @nandynamic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nandynamic)](https://holopin.io/@nandynamic)
 </div>
 
 <img align="right" height="150" src="219537.gif"  />
