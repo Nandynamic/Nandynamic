@@ -1,4 +1,5 @@
 <div align="center">
+  <img width="1213" height="411" alt="Screenshot 2025-11-07 at 22 48 24" src="https://github.com/user-attachments/assets/2d252562-4bcb-461d-83f5-9267a7cd014b" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandynamic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
@@ -66,6 +67,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
-<img width="1213" height="411" alt="Screenshot 2025-11-07 at 22 48 24" src="https://github.com/user-attachments/assets/2d252562-4bcb-461d-83f5-9267a7cd014b" />
 
 
