@@ -16,7 +16,7 @@ I'm a passionate software developer and tech enthusiast, with a love for buildin
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Nandann018_ux/YOUR_REPO_NAME/main/_moonKnight.gif" height="300" />
+<img src="https://raw.githubusercontent.com/Nandann018_ux/REPO_NAME/main/_moonKnight.gif" height="300" />
 
 </div>
 
