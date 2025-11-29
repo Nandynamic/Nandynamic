@@ -4,11 +4,11 @@
 
 </div>
 
-<img align="right" height="150" src="219537.gif" />
+<img align="right" height="150" src="https://i.pinimg.com/originals/05/71/61/057161158182c0629f2c40c3aa6dce7a.gif" />
 
-# 👋 Hi there, I'm Nandan Acharya
+# 👋 Hi there, I'm Nandan
 
-I'm a passionate software developer and tech enthusiast, with a love for building interactive web applications and exploring new technologies. Over the years, I've honed my skills in front-end development while also dabbling in back-end tools, creating end-to-end solutions.
+I'm a passionate software developer and tech enthusiast, with a love for building interactive web applications and exploring new technologies.
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
@@ -53,15 +53,15 @@ I also enjoy creating visually appealing projects using only CSS, blending logic
 
 <div align="left">
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:samarthachar18@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
