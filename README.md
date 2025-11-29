@@ -4,7 +4,7 @@
 
 </div>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/05/71/61/057161158182c0629f2c40c3aa6dce7a.gif" />
+<img align="right" height="150" src="https://i.pinimg.com/originals/6f/86/1e/6f861e8ea17e332f92f00e8db5a2148c.gif" />
 
 # 👋 Hi there, I'm Nandan
 
