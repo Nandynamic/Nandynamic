@@ -4,13 +4,24 @@
 
 </div>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/6f/86/1e/6f861e8ea17e332f92f00e8db5a2148c.gif" />
+<table>
+<tr>
+<td>
 
 # 👋 Hi there, I'm Nandan
 
 I'm a passionate software developer and tech enthusiast, with a love for building interactive web applications and exploring new technologies.
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+</td>
+<td>
+
+<img src="https://raw.githubusercontent.com/Nandann018_ux/YOUR_REPO_NAME/main/_moonKnight.gif" height="150" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -22,8 +33,6 @@ I'm a passionate software developer and tech enthusiast, with a love for buildin
 - **Other Tools:** Git, Postman, Jupyter, VSCode, Xcode, Bash
 - **Project Management & Collaboration:** Jira, Trello, Notion
 - **Creative Side:** CSS Art, creative coding, and UI experimentation
-
-I also enjoy creating visually appealing projects using only CSS, blending logic with creativity in fun and unique ways.
 
 ---
 
