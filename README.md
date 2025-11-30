@@ -32,8 +32,6 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 # 💻 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
@@ -75,7 +73,7 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 
 ---
 
-### 🐍 Snake Animation (GIF)
+### 🐍 Snake Animation 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/snake.gif" alt="Snake animation" height="150" />
