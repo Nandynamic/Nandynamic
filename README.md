@@ -77,7 +77,7 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 
 ### Snake Animation
 
-<img src="https://raw.githubusercontent.com/Nandynamic/Nandynamic/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/output/snake.svg" alt="Snake animation" />
 
 ---
 
