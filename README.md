@@ -5,19 +5,14 @@
 </div>
 
 <div align="center">
-
 # 👋 Hi there, I'm Nandan
-
-I'm a passionate software developer and tech enthusiast, with a love for building interactive web applications and exploring new technologies.
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+Second-Year student learning Full-Stack development with a strong focus on problem-solving, DSA and Algorithms.
+> “Talk is cheap. Show me the code.” — Linus Torvalds
 
 </div>
 
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/Nandann018_ux/Nandann018_ux/main/_moonKnight.gif" height="300" />
-
 </div>
 
 ---
