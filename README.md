@@ -1,17 +1,18 @@
 <div align="left">
 
+  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/MoonKnight.gif"/>
+   
+</div>
+
+
+<div align="left">
+
 [![Holopin Badges](https://holopin.me/nandynamic)](https://holopin.io/@nandynamic)
 
 </div>
 
 
-<div align="left">
-  
-  <div>
-    <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/MoonKnight.gif"/>
-  </div>
-   
-</div>
+
 <!-- ![MoonKnight](https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/_moonKnight.gif) -->
 
 ---
