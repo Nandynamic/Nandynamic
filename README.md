@@ -73,9 +73,13 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
 </div>
 
+---
 
+### 🐍 Snake Animation (GIF)
 
-<img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/snake.gif" alt="Snake animation" height="150" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/snake.gif" alt="Snake animation" height="150" />
+</div>
 
 ---
 
