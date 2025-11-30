@@ -1,10 +1,10 @@
-<div align="center">
+<div align="left">
 
 [![Holopin Badges](https://holopin.me/nandynamic)](https://holopin.io/@nandynamic)
 
 </div>
 
-<div align="center">
+<div align="left">
 
 # 👋 Hi there, I'm Nandan  
 Second-year student exploring Full-Stack Development with a strong focus on **Problem-Solving, DSA, and Algorithms**.
@@ -13,8 +13,8 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nandann018_ux/Nandann018_ux/main/_moonKnight.gif" height="300" />
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Nandann018_ux/Nandann018_ux/main/_moonKnight.gif" height="260" />
 </div>
 
 ---
@@ -31,7 +31,7 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 
 # 💻 Tech Stack
 
-<div align="center">
+<div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
@@ -59,7 +59,7 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 
 # 🛠 Skills
 
-<div align="center">
+<div align="left">
 
 🟦 **Frontend:** HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • UI/UX  
 🟩 **Backend:** Node.js • Express.js • API • OAuth 2.0  
@@ -74,17 +74,16 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 
 # 🌐 Connect with Me
 
-<div align="center">
+<div align="left">
 
-<a href="https://www.instagram.com/" target="_blank">
+<a href="https://www.instagram.com/_nanndann_/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
 </a>
-<a href="https://discord.com/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-</a>
-<a href="mailto:samarthachar18@gmail.com" target="_blank">
+
+<a href="mailto:nandanachar18@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
 </a>
+
 <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
 </a>
