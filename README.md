@@ -76,7 +76,7 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 ### 🐍 Snake Animation 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/snake.gif" alt="Snake animation" height="150" />
+  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assests/snake.gif" alt="Snake animation" height="150" />
 </div>
 
 ---
