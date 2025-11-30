@@ -75,10 +75,9 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 
 ---
 
-### Snake Animation
+### Snake Animation (GIF Version)
 
-<img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/snake.gif" alt="Snake animation" height="150" />
 
 ---
 
@@ -112,5 +111,28 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Nandann018-ux&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />   
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandann018-ux&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
+
+<br>
+
+<!-- Custom Avatar -->
+<img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/icons/my_avatar.png" height="140" alt="custom avatar" />
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Nandann018-ux&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="142" alt="streak graph"  />
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=16&theme=react&area=true&order=5" height="300" alt="activity graph"  />
 
 </div>
