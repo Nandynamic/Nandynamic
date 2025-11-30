@@ -25,7 +25,7 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 - **Backend:** Node.js, Express.js, OAuth 2.0, API Development  
 - **Databases:** MongoDB, MySQL, SQL  
 - **Programming & Tools:** Python, Pandas, Git & GitHub, Postman, Bash  
-- **Special Skills:** UI/UX, Data Structures, Spreadsheet, **Prisma ORM** (Added emphasis)
+- **Special Skills:** UI/UX, Data Structures, Spreadsheet, Prisma ORM  
 
 ---
 
@@ -88,10 +88,12 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 
 ---
 
-# 🏆 Problem Solving Focus (New Section)
+# 🏆 Problem Solving Focus (Updated with Dynamic LeetCode Stats)
 
 <div align="left">
-  <img src="https://img.shields.io/badge/LeetCode_Solved-100-yellowgreen?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/nandynamic/" target="_blank">
+    <img src="https://leetcode-stats-badge.herokuapp.com/nandynamic/solved" alt="LeetCode Solved Count" />
+  </a>
   <img width="12" />
   <img src="https://img.shields.io/badge/Focus-Data_Structures_%26_Algorithms-blueviolet?style=for-the-badge" />
   <img width="12" />
@@ -115,7 +117,7 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 
 ---
 
-# 📂 Projects (New Section - Show the Code!)
+# 📂 Projects (Show the Code!)
 
 - **[Project Name 1]** | **Tech Stack:** Next.js, TypeScript, MongoDB, Tailwind CSS
   > Brief, engaging description of what the project does and its core feature (e.g., "A full-stack social media clone featuring real-time chat and authentication.")
@@ -135,7 +137,7 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 </a>
 
 <a href="mailto:nandanachar18@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
 </a>
 
 <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/" target="_blank">
