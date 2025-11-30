@@ -88,18 +88,6 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 
 ---
 
-# 🏆 Problem Solving Focus (New Section)
-
-<div align="left">
-  <img src="https://img.shields.io/badge/LeetCode_Solved-100-yellowgreen?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Focus-Data_Structures_%26_Algorithms-blueviolet?style=for-the-badge" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Competitive_Coding-Exploring-orange?style=for-the-badge" />
-</div>
-
----
-
 # 🛠 Skills
 
 <div align="left">
@@ -113,17 +101,6 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 
 </div>
 
----
-
-# 📂 Projects (New Section - Show the Code!)
-
-- **[Project Name 1]** | **Tech Stack:** Next.js, TypeScript, MongoDB, Tailwind CSS
-  > Brief, engaging description of what the project does and its core feature (e.g., "A full-stack social media clone featuring real-time chat and authentication.")
-- **[Project Name 2]** | **Tech Stack:** React, Node.js/Express, MySQL
-  > Brief, engaging description of what the project does and its core feature (e.g., "Developed a RESTful API for an e-commerce platform integrated with custom SQL queries.")
-- **[Algorithm Visualizer]** | **Tech Stack:** JavaScript, HTML, CSS
-  > Highlight your DSA focus here! (e.g., "Interactive tool to visualize sorting algorithms like Merge Sort and Quick Sort.")
-  
 ---
 
 # 🌐 Connect with Me
@@ -143,9 +120,8 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 </a>
 
 </div>
-
+---
 <div align="center">
-  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=16&theme=react&area=true&order=5" height="300" alt="activity graph"  />
 
 </div>
