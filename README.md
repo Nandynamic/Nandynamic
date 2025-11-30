@@ -116,6 +116,8 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 
 </div>
 
+---
+
 <div align="center">
   
 <!-- Activity Graph -->
