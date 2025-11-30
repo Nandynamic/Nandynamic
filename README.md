@@ -21,12 +21,11 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 
 # 🚀 Expertise
 
-- **Front-end Development:** React, Next.js, Vue.js, Nuxt.js, HTML5, CSS3, JavaScript, TypeScript  
-- **Back-end & Databases:** Node.js, Express, MySQL  
-- **UI/UX & Styling:** SASS, Less, Styled Components, MUI, Vuetify  
-- **Other Tools:** Git, Postman, Jupyter, VSCode, Xcode, Bash  
-- **Project Management:** Jira, Trello, Notion  
-- **Creative Work:** CSS Art, Creative Coding, UI Experiments  
+- **Frontend:** React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS  
+- **Backend:** Node.js, Express.js, OAuth 2.0, API Development  
+- **Databases:** MongoDB, MySQL, SQL  
+- **Programming & Tools:** Python, Pandas, Git & GitHub, Postman, Bash  
+- **Special Skills:** UI/UX, Data Structures, Spreadsheet, Prisma ORM  
 
 ---
 
@@ -34,21 +33,40 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
+
+</div>
+
+---
+
+# 🛠 Skills
+
+<div align="center">
+
+🟦 **Frontend:** HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS • UI/UX  
+🟩 **Backend:** Node.js • Express.js • API • OAuth 2.0  
+🟧 **Databases:** MongoDB • MySQL • SQL  
+🟪 **Programming:** Python • Pandas  
+⬛ **Dev Tools:** Git & GitHub • Postman • Bash  
+🔷 **Other:** Data Structures • Prisma ORM • Spreadsheet  
 
 </div>
 
