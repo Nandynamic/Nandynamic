@@ -4,18 +4,15 @@
 
 </div>
 
-<div align="left">
-
-# 👋 Hi there, I'm Nandan  
-Second-year student exploring Full-Stack Development with a strong focus on **Problem-Solving, DSA, and Algorithms**.
-
-> “Talk is cheap. Show me the code.” — *Linus Torvalds*
-
-</div>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/Nandann018_ux/Nandann018_ux/main/assets/_moonKnight.gif" height="260" />
+  # 👋 Hi there, I'm Nandan  
+  Second-year student exploring Full-Stack Development with a strong focus on **Problem-Solving, DSA, and Algorithms**.
+
+  > “Talk is cheap. Show me the code.” — *Linus Torvalds*
 </div>
+
+![MoonKnight](https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/_moonKnight.gif)
 
 ---
 
