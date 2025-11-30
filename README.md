@@ -25,7 +25,7 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 - **Backend:** Node.js, Express.js, OAuth 2.0, API Development  
 - **Databases:** MongoDB, MySQL, SQL  
 - **Programming & Tools:** Python, Pandas, Git & GitHub, Postman, Bash  
-- **Special Skills:** UI/UX, Data Structures, Spreadsheet, Prisma ORM  
+- **Special Skills:** UI/UX, Data Structures, Spreadsheet, **Prisma ORM** (Added emphasis)
 
 ---
 
@@ -71,14 +71,31 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma ORM logo"  />
 </div>
 
 ---
 
-### 🐍 Snake Animation (GIF)
+### 🐍 Contribution Snake Animation (Fixed)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/snake.gif" alt="Snake animation" height="150" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/dist/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/dist/github-contribution-grid-snake.svg" height="150" />
+  </picture>
+</div>
+
+---
+
+# 🏆 Problem Solving Focus (New Section)
+
+<div align="left">
+  <img src="https://img.shields.io/badge/LeetCode_Solved-100-yellowgreen?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Focus-Data_Structures_%26_Algorithms-blueviolet?style=for-the-badge" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Competitive_Coding-Exploring-orange?style=for-the-badge" />
 </div>
 
 ---
@@ -92,10 +109,21 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 🟧 **Databases:** MongoDB • MySQL • SQL  
 🟪 **Programming:** Python • Pandas  
 ⬛ **Dev Tools:** Git & GitHub • Postman • Bash  
-🔷 **Other:** Data Structures • Prisma ORM • Spreadsheet  
+🔷 **Other:** Data Structures • **Prisma ORM** • Spreadsheet  
 
 </div>
 
+---
+
+# 📂 Projects (New Section - Show the Code!)
+
+- **[Project Name 1]** | **Tech Stack:** Next.js, TypeScript, MongoDB, Tailwind CSS
+  > Brief, engaging description of what the project does and its core feature (e.g., "A full-stack social media clone featuring real-time chat and authentication.")
+- **[Project Name 2]** | **Tech Stack:** React, Node.js/Express, MySQL
+  > Brief, engaging description of what the project does and its core feature (e.g., "Developed a RESTful API for an e-commerce platform integrated with custom SQL queries.")
+- **[Algorithm Visualizer]** | **Tech Stack:** JavaScript, HTML, CSS
+  > Highlight your DSA focus here! (e.g., "Interactive tool to visualize sorting algorithms like Merge Sort and Quick Sort.")
+  
 ---
 
 # 🌐 Connect with Me
@@ -107,7 +135,7 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 </a>
 
 <a href="mailto:nandanachar18@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&logoColor=white&labelColor=&style=for-the-badge" height="35" />
 </a>
 
 <a href="https://www.linkedin.com/in/nandan-acharya-9b952631a/" target="_blank">
@@ -118,7 +146,6 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 
 <div align="center">
   
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nandann018-ux&radius=16&theme=react&area=true&order=5" height="300" alt="activity graph"  />
 
 </div>
