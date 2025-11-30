@@ -14,7 +14,7 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 </div>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/Nandann018_ux/Nandann018_ux/main/_moonKnight.gif" height="260" />
+  <img src="https://raw.githubusercontent.com/Nandann018_ux/Nandann018_ux/main/assets/_moonKnight.gif" height="260" />
 </div>
 
 ---
@@ -69,14 +69,6 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
-</div>
-
----
-
-### 🐍 Snake Animation 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assests/snake.gif" alt="Snake animation" height="150" />
 </div>
 
 ---
