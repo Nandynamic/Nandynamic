@@ -77,6 +77,7 @@ Second-year student exploring Full-Stack Development with a strong focus on **Pr
 
 ---
 
+
 ### 🐍 Contribution Snake Animation (Fixed)
 
 <div align="center">
