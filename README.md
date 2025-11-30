@@ -6,23 +6,11 @@
 
 
 <div align="left">
-  <table>
-    <tr>
-    <td>
+  
   <div>
-  # 👋 Hi there, I'm Nandan  
-  Second-year student exploring Full-Stack Development with a strong focus on **Problem-Solving, DSA, and Algorithms**.
-
-  > “Talk is cheap. Show me the code.” — *Linus Torvalds*
+    <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/MoonKnight.gif" width="450" height="450"/>
   </div>
-  </td>
-  <td>
-  <div>
-    <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/_moonKnight.gif" width="450" height="450"/>
-  </div>
-    </td>
-  </tr>
-  </table>
+   
 </div>
 <!-- ![MoonKnight](https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/_moonKnight.gif) -->
 
