@@ -18,17 +18,13 @@
 - **Programming & Tools:** Python, Pandas, Git & GitHub, Postman, Bash  
 - **Special Skills:** UI/UX, Data Structures, Spreadsheet, Prisma ORM
 
-
----
 #
-
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/MoonKnight.gif"/>
    
 </div>
-
----
+#
 
 # 💻 Tech Stack
 
