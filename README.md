@@ -16,7 +16,17 @@
 - **Backend:** Node.js, Express.js, OAuth 2.0, API Development  
 - **Databases:** MongoDB, MySQL, SQL  
 - **Programming & Tools:** Python, Pandas, Git & GitHub, Postman, Bash  
-- **Special Skills:** UI/UX, Data Structures, Spreadsheet, Prisma ORM  
+- **Special Skills:** UI/UX, Data Structures, Spreadsheet, Prisma ORM
+
+
+---
+
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/MoonKnight.gif"/>
+   
+</div>
 
 ---
 
@@ -62,12 +72,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
 </div>
 
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/MoonKnight.gif"/>
-   
-</div>
 
 ---
 
