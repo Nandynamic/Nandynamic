@@ -8,7 +8,7 @@
 <div align="left">
   
   <div>
-    <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/MoonKnight.gif" width="450" height="450"/>
+    <img src="https://raw.githubusercontent.com/Nandann018-ux/Nandann018-ux/main/assets/MoonKnight.gif"/>
   </div>
    
 </div>
